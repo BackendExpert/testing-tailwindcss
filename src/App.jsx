@@ -1,7 +1,14 @@
-export default function App() {
+function App() {
+
   return (
-    <h1 className="text-3xl font-bold underline text-red-600">
-      Hello world!
-    </h1>
+    <>
+      <div>
+        <h1 className="text-blue-600">
+          Tailwind CSS
+        </h1>
+      </div>
+    </>
   )
 }
+
+export default App
