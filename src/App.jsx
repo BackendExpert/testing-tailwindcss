@@ -1,4 +1,6 @@
 import Nav from "./files/Nav"
+import Footer from "./files/footer"
+
 
 function App() {
 
@@ -6,6 +8,8 @@ function App() {
     <>
       <div>
         <Nav />
+
+        <Footer/>
       </div>
     </>
   )
